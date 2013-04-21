@@ -68,9 +68,6 @@ db = SCB.db
 # The names of All the top levels
 db.levels.map(&:name)
 
-# English levels under 
-db.level(BO0303')
-
 # The English title of LonArb07Privat
 SCB.db.en.table('LonArb07Privat').title
 ```
