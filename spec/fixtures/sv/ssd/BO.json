@@ -1,0 +1,57 @@
+[
+  {
+    "id": "BO0102",
+    "type": "l",
+    "text": "Ombyggnad och rivning av flerbostadshus"
+  },
+  {
+    "id": "BO0201",
+    "type": "l",
+    "text": "Priser för nyproducerade bostäder"
+  },
+  {
+    "id": "BO0303",
+    "type": "l",
+    "text": "Outhyrda bostadslägenheter i flerbostadshus"
+  },
+  {
+    "id": "BO0406",
+    "type": "l",
+    "text": "Hyror i bostadslägenheter"
+  },
+  {
+    "id": "BO0601",
+    "type": "l",
+    "text": "Fastighetstaxeringar"
+  },
+  {
+    "id": "BO0101",
+    "type": "l",
+    "text": "Nybyggnad av bostäder"
+  },
+  {
+    "id": "BO0104",
+    "type": "l",
+    "text": "Bostadsbestånd (kalkylerat)"
+  },
+  {
+    "id": "BO0301",
+    "type": "l",
+    "text": "Intäkts- och kostnadsundersökning för flerbostadshus (IKU)"
+  },
+  {
+    "id": "BO0404",
+    "type": "l",
+    "text": "Avgifter/hyror för nybyggda lägenheter"
+  },
+  {
+    "id": "BO0501",
+    "type": "l",
+    "text": "Fastighetspriser och lagfarter"
+  },
+  {
+    "id": "BO0701",
+    "type": "l",
+    "text": "Bygglovsstatistik för bostäder och lokaler"
+  }
+]

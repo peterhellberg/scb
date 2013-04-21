@@ -1,0 +1,107 @@
+[
+  {
+    "id": "AM",
+    "type": "l",
+    "text": "Arbetsmarknad"
+  },
+  {
+    "id": "BO",
+    "type": "l",
+    "text": "Boende, byggande och bebyggelse"
+  },
+  {
+    "id": "FM",
+    "type": "l",
+    "text": "Finansmarknad"
+  },
+  {
+    "id": "HE",
+    "type": "l",
+    "text": "Hushållens ekonomi"
+  },
+  {
+    "id": "JO",
+    "type": "l",
+    "text": "Jord- och skogsbruk, fiske"
+  },
+  {
+    "id": "LE",
+    "type": "l",
+    "text": "Levnadsförhållanden"
+  },
+  {
+    "id": "MI",
+    "type": "l",
+    "text": "Miljö"
+  },
+  {
+    "id": "NV",
+    "type": "l",
+    "text": "Näringsverksamhet"
+  },
+  {
+    "id": "PR",
+    "type": "l",
+    "text": "Priser och konsumtion"
+  },
+  {
+    "id": "TK",
+    "type": "l",
+    "text": "Transporter och kommunikationer"
+  },
+  {
+    "id": "AA",
+    "type": "l",
+    "text": "Ämnesövergripande statistik"
+  },
+  {
+    "id": "BE",
+    "type": "l",
+    "text": "Befolkning"
+  },
+  {
+    "id": "EN",
+    "type": "l",
+    "text": "Energi"
+  },
+  {
+    "id": "HA",
+    "type": "l",
+    "text": "Handel med varor och tjänster"
+  },
+  {
+    "id": "HS",
+    "type": "l",
+    "text": "Hälso- och sjukvård"
+  },
+  {
+    "id": "KU",
+    "type": "l",
+    "text": "Kultur och fritid"
+  },
+  {
+    "id": "ME",
+    "type": "l",
+    "text": "Demokrati"
+  },
+  {
+    "id": "NR",
+    "type": "l",
+    "text": "Nationalräkenskaper"
+  },
+  {
+    "id": "OE",
+    "type": "l",
+    "text": "Offentlig ekonomi"
+  },
+  {
+    "id": "SO",
+    "type": "l",
+    "text": "Socialtjänst"
+  },
+  {
+    "id": "UF",
+    "type": "l",
+    "text": "Utbildning och forskning"
+  }
+]

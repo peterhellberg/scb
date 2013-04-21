@@ -1,0 +1,47 @@
+[
+  {
+    "id": "LagenhetOmbAkBpAtAr",
+    "type": "t",
+    "text": "Ombyggda lägenheter i flerbostadshus med statligt stöd i riket efter åtgärd, byggnadsperiod och ägarkategori. År 1989 - 2008"
+  },
+  {
+    "id": "LagenhetOmbAtgardAr",
+    "type": "t",
+    "text": "Ombyggnad av flerbostadshus, tillskott av lägenheter, i riket efter åtgärd, ägarkategori, byggnadsperiod, lägenhetstyp och med/utan statligt stöd. År 1989 - 2012"
+  },
+  {
+    "id": "LagenhetOmbStodtypAr",
+    "type": "t",
+    "text": "Ombyggda lägenheter i flerbostadshus i riket efter ägarkategori, byggnadsperiod, lägenhetstyp och med/utan statligt stöd. År 1989 - 2008"
+  },
+  {
+    "id": "LagenhetRivAkBpLtRAr",
+    "type": "t",
+    "text": "Rivning av lägenheter i flerbostadshus efter region, ägarkategori, byggnadsperiod, lägenhetstyp och rivningsorsak. År 1989 - 2012"
+  },
+  {
+    "id": "LagenhetOmbAkBpAr",
+    "type": "t",
+    "text": "Ombyggd bostadsarea i flerbostadshus efter region, ägarkategori och byggnadsperiod. År 1989 - 2012"
+  },
+  {
+    "id": "LagenhetOmbAkBpLtAr",
+    "type": "t",
+    "text": "Ombyggda lägenheter i flerbostadshus efter region, ägarkategori, byggnadsperiod och lägenhetstyp. År 1989 - 2012"
+  },
+  {
+    "id": "LagenhetOmbKv",
+    "type": "t",
+    "text": "Lägenheter i ombyggda flerbostadshus efter region. Preliminära uppgifter. Kvartal 1989K1 - 2012K4"
+  },
+  {
+    "id": "LagenhetOmbUpplatAr",
+    "type": "t",
+    "text": "Ombyggda lägenheter i flerbostadshus med statligt stöd efter region och upplåtelseform. År 1989 - 2008"
+  },
+  {
+    "id": "LagenhetRivKvalAr",
+    "type": "t",
+    "text": "Rivning av lägenheter i flerbostadshus efter region och kvalitetsgrupp. År 1989 - 2011"
+  }
+]
