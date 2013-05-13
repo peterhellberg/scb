@@ -2,7 +2,7 @@
 
 A small API client for the SCB API.
 
-You probably want to read the [API\_beskrivning.pdf](http://www.scb.se/Grupp/OmSCB/Dokument/API_beskrivning.pdf) (in Swedish)
+You probably want to read the [API\_beskrivning.pdf](http://www.scb.se/Grupp/OmSCB/Dokument/API-beskrivning.pdf) (in Swedish)
 
 [![Build Status](https://travis-ci.org/peterhellberg/scb.png?branch=master)](https://travis-ci.org/peterhellberg/scb)
 
